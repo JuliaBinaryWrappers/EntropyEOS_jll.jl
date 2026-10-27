@@ -1,174 +1,174 @@
 [[EntropyEOS]]
 arch = "aarch64"
-git-tree-sha1 = "94eca946544a826331b8f5f17c4d7d27221fb069"
+git-tree-sha1 = "37107812a6e977a329bdc699f3e38a84beedf024"
 os = "macos"
 
     [[EntropyEOS.download]]
-    sha256 = "41500a0e28c1eaab2e8dafd78461c30d9dc60b3ce63403036155022234bf9f86"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "7dad7b8a334040ed64c99db9f221878b3dd521b92f24e5249fb220b36f68a5f6"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.aarch64-apple-darwin.tar.gz"
 [[EntropyEOS]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2a3207377f2664444ca3b7ab06dfb6748b06308e"
+git-tree-sha1 = "9015ae9c397d7a4f932e4d7a8d8fe776376d10d9"
 libc = "glibc"
 os = "linux"
 
     [[EntropyEOS.download]]
-    sha256 = "3382c4838a5b801f6a832b6121ab79a52634e88c3bf4ab1040ade53082329923"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "53fed54954c7bef0edafae8ac03f3b2d3d1e31cab80767b736a5e086f9c4415a"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[EntropyEOS]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2737733601b58e67fd2069a57be54bdbbc2db9a9"
+git-tree-sha1 = "3f502a01e3f08032c22fba1348fa6f4a3a333abe"
 libc = "musl"
 os = "linux"
 
     [[EntropyEOS.download]]
-    sha256 = "3dde7125b1b8015a099e0a9ec6ef9863ff54029a3823881297a6860eca91b197"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "0ca49bdbefc8b6a0ce366b1b8d6786b13f125fec55b67693da62bfdb32bac387"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.aarch64-linux-musl-cxx11.tar.gz"
 [[EntropyEOS]]
 arch = "aarch64"
-git-tree-sha1 = "e268aaf3cee359d43847351852bb323f757d4ae6"
+git-tree-sha1 = "e45fe3f9d88284b5b65a88563d9c5e055a6aad90"
 os = "freebsd"
 
     [[EntropyEOS.download]]
-    sha256 = "628a5c209e7768436b8ac92211d282569b42cbac7f59968aba91f9a620edf130"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "ee1eba18aca539b5cfe747f20691ed1825cb8dd829d60e5b1cda49eb836f701f"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.aarch64-unknown-freebsd.tar.gz"
 [[EntropyEOS]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "69770f488b16adb8125d6a8744f78662958e7673"
+git-tree-sha1 = "62b37493f2c838cfbcfb55b7096bbc6da74bb1c6"
 libc = "glibc"
 os = "linux"
 
     [[EntropyEOS.download]]
-    sha256 = "a32a7ff59d4939f511e497612dbdaf9c0ec835611782282df0f49b9caab48613"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "f5b5c2dc8da5ebda2b361125f5de54163f636ea09069628a7882a8b9e007da5b"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[EntropyEOS]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d10862e4eae7b418acf678b42242eac9ec00bfe6"
+git-tree-sha1 = "fb1fbd83d11215cd0ee818d19b8a620e9bed247b"
 libc = "musl"
 os = "linux"
 
     [[EntropyEOS.download]]
-    sha256 = "473a04d67b45806e5224103eac157c0dd0e268f00af2a47287f304a304a207ae"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "68a349263591d9ee9d5d351a901c8bd6ee0b1419088ca7c1d67899bb33e81585"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[EntropyEOS]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "624a8160ece5958d7943eab5885ece830ac4c185"
+git-tree-sha1 = "78b0e8ac86ce925d37cb0937200b9079632251b9"
 libc = "glibc"
 os = "linux"
 
     [[EntropyEOS.download]]
-    sha256 = "93153b0e7cf87d4f1ac300377ab1b020b15c28714b0633738a7bcd1c8307471d"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "33a10dca3dcd780964bd4652d352b77bb9e9be9cecb7bed7f2e2ed92c78e1bf2"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[EntropyEOS]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b5f83cef0459e6e770b13f23f0dd3e14da2aebd1"
+git-tree-sha1 = "db3378a829d5d5d71105999d336756c14db266f8"
 libc = "musl"
 os = "linux"
 
     [[EntropyEOS.download]]
-    sha256 = "f55db0a73076cf8b738dca3d63344aaf4600c74aee182c9e751ebb20e2137b94"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "ee12dbeed0425a8ee89d7ceacf6c95023c96c4253f943836a655cf6357dd1420"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[EntropyEOS]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "23e08d4295c8498565892aecb5cd7ada8b94c196"
+git-tree-sha1 = "7894f257ae009dee666cd703c52177e90020ffcd"
 libc = "glibc"
 os = "linux"
 
     [[EntropyEOS.download]]
-    sha256 = "3ec95d4cbb317ce89d45ac882c1005f9498aeaed378253bf4829b955ccce195d"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "aa12a537a5f7566da9a01f6b8694773903f0840d84cc1b6eae87aad7123f3404"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.i686-linux-gnu-cxx11.tar.gz"
 [[EntropyEOS]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "96abfbd3c7dafc18a095ce3e9a6cc0f4fa2a31e3"
+git-tree-sha1 = "e3316d5978bf657f03228b33f062cae512db7b55"
 libc = "musl"
 os = "linux"
 
     [[EntropyEOS.download]]
-    sha256 = "11df657208577dce76f9daff878005fed9fee97312fa19d13c95f9540aeaac16"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "d4e55492a6c5586dcaaf30f72b440314779ac464b08d9d412385bb129a3e1bff"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.i686-linux-musl-cxx11.tar.gz"
 [[EntropyEOS]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1e7f4546783dad9e7d5e7987b5fa47e3942d16fd"
+git-tree-sha1 = "40d538d4037f6001c4adca0d4a94ebb0913488ee"
 os = "windows"
 
     [[EntropyEOS.download]]
-    sha256 = "c8bf69533039c797d06b4f9f7c602e303b2091554efb15f180015fae444eb7e9"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "2a2be5527e1cef5efb8964baacaa737266d047986ab45d8dd6626e7b8c69d330"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.i686-w64-mingw32-cxx11.tar.gz"
 [[EntropyEOS]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8197d26ce10317305ba838c36a6e200a8f3e6b71"
+git-tree-sha1 = "0a10593ffdc2abb6268e9c2b7bd84dbe04d58929"
 libc = "glibc"
 os = "linux"
 
     [[EntropyEOS.download]]
-    sha256 = "0dcf1abef490066f5de0a7430907b81d0f31ee291fe8d2e4b9a8fe49d40a7695"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "cf401db0c0bcd2f575fe8765645fcd30eda3e6a36eb33b84b401a965906de185"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[EntropyEOS]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "43b3745e18c82bd300d3c1061e0e0d841096e50f"
+git-tree-sha1 = "ced89fbbd830f94cb2c743eb6745c78ac8734906"
 libc = "glibc"
 os = "linux"
 
     [[EntropyEOS.download]]
-    sha256 = "2382904bd4218ca0d42b49594debf303d6cbb7b08db34bbe2ed680fcf7d2345d"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "2af1c8247a5f9c806f10b0dcae448449dd77cd9e29ac10eb18b51dd974bc6fbd"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.riscv64-linux-gnu-cxx11.tar.gz"
 [[EntropyEOS]]
 arch = "x86_64"
-git-tree-sha1 = "5001bbdc83582d63c6a625bb7b7aabb5d9b9ea3d"
+git-tree-sha1 = "9c3a30a6db155d1b32987e00668b7f5914d5d8aa"
 os = "macos"
 
     [[EntropyEOS.download]]
-    sha256 = "5f66c0164fa43dda32902cda52f6b8f82a701dc5ac069bdb649e3217ecf4b56d"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "5d31191830a0dee60d7533a128443eba961494435e7b1dd0a7aff3732c35487c"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.x86_64-apple-darwin.tar.gz"
 [[EntropyEOS]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "60481ab1a774be6448d59f9fa95c5d63dc2833a5"
+git-tree-sha1 = "f6713a6451247ac2983485f25900d5daae2da060"
 libc = "glibc"
 os = "linux"
 
     [[EntropyEOS.download]]
-    sha256 = "a9601151feaa6e2dafb0f9143d84b9174ee246496ddd7b3a3bab0c00a3852c27"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "e72d4485de2d2193d00222807ef93cb483a918050c3fb0adf713dd456a99842a"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[EntropyEOS]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dc9f39e07ea8a227deee7fb7b92e67d5118c225f"
+git-tree-sha1 = "614fef733e530f1423c9041b28b5cd921b12d5f9"
 libc = "musl"
 os = "linux"
 
     [[EntropyEOS.download]]
-    sha256 = "6cbf7463536b3f06045510e52b37de2edd81d52861d899938acb5385ecc1bb71"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "875ec585165fa0d2c9c690181b4291553029967836ad8b3e99877feb1073f865"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.x86_64-linux-musl-cxx11.tar.gz"
 [[EntropyEOS]]
 arch = "x86_64"
-git-tree-sha1 = "1ea40fa786fa3b15e0c2aa58500a55d21f2343e3"
+git-tree-sha1 = "dee03fb885ec0d1df5b9cfa227ea603e3f2d6770"
 os = "freebsd"
 
     [[EntropyEOS.download]]
-    sha256 = "149fa3ed5397cfc095133cbea7a51c47ac64a4f6c0e5af75cac8a4f5753962d7"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "e3736cf0c3b28e5da0a7437970a04f2460781d14ecb6c48b290565c23a2c2902"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.x86_64-unknown-freebsd.tar.gz"
 [[EntropyEOS]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d9e2662f9e90d7ae1b7d9c6ff706f7fed0d57ff3"
+git-tree-sha1 = "42ca4bb0a1aaeac2713afd5e215bdef0741227dd"
 os = "windows"
 
     [[EntropyEOS.download]]
-    sha256 = "e947440a1e7d2660af3a5b4e5d875d414707cac3c77de4e8811fb20938d7bcd9"
-    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.2.0+0/EntropyEOS.v1.2.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "e535de703f371fac57b0f4229b0993f986fa5fbf80167943e231bb37dfeb73d3"
+    url = "https://github.com/JuliaBinaryWrappers/EntropyEOS_jll.jl/releases/download/EntropyEOS-v1.3.0+0/EntropyEOS.v1.3.0.x86_64-w64-mingw32-cxx11.tar.gz"
